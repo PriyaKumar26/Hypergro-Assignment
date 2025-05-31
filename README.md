@@ -178,12 +178,3 @@ http://localhost:3000
 | POST   | `/recommend/:email/:id` | Recommend property      |
 | GET    | `/recommendations`| View received recommendations |
 
-## 📦 Deployment (Render/Vercel)
-Add your deployment link here once deployed.
-
-## 🎥 Video Demo
-Add your recorded video explanation link here.
-
----
-
-Need help deploying or adding features? Let me know!
